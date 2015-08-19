@@ -30,7 +30,7 @@ First of all let's understand functions in python:
     # We are not using parentheses here because we are not calling the function hi
     # instead we are just putting it into the greet variable. Let's try to run this
 
-    print greet()
+    print(greet())
     # output: 'hi yasoob'
 
     # Let's see what happens if we delete the old hi function!
